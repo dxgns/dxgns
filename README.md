@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**dxgns/dxgns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 HTML • CSS • C++ • Python • C++
 
-Here are some ideas to get you started:
+🔧 ESP32 • Firebase • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student developer from Chile 🇨🇱
+
+Currently building IoT projects, experimenting with embedded systems and learning software development through real-world projects.
+
+### Current Focus
+
+* ESP32 Development
+* Firebase Integration
+* Python Applications
+* Web Technologies
+* Open Source
+
+### Projects
+
+* GPS Speed Monitoring System
+* Educational Technology Projects
